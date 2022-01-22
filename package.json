@@ -1,0 +1,15 @@
+{
+  "name": "datastore",
+  "version": "1.0.0",
+  "description": "using Mongo db \r  install from mongo bd for window",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.7"
+  }
+}
